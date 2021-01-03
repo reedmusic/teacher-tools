@@ -31,20 +31,10 @@ It supports retrieval practice and spaced repetition: questions from previous an
 1. **Questions** sheet holds all the questions and answers (and the topic they fall under).
 2. **Options** sheet selects which topics to include in the test.
 3. **1_Q** sheet asks 1 question.
-4. **5_Q** asks 5 questions. 
-	* **5_A** are the answers.
-5. **10_Q** asks 10 questions. 
-	* **10_A** are the answers.
-4. **Print Q** fills an A4 paper with questions, for homework or test.
-	* **Print_A** are the answers.
-5. **Print KO** randomly hides questions and answers, like a deletion test in a Knowledge Organiser. 
-	* (The answers are in previous sheet **Print A**.)
-
-
-### Screenshots
-
-![](roulette.png)
-
+4. **5_Q** asks 5 questions. (**5_A** shows answers).
+5. **10_Q** asks 10 questions. (**10_A** shows answers).
+4. **Print Q** fills an A4 paper with questions, for homework or test. (**Print_A** shows answers)
+5. **Print KO** randomly hides questions and answers, like a deletion test in a Knowledge Organiser. (**Print_A** shows answers)
 
 Adapted from the example and information in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many different examples at the bottom.
 
