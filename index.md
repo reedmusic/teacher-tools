@@ -1,4 +1,4 @@
-# Excel tools
+# Teacher Tools
 {: .no_toc}
 
 - TOC
@@ -6,11 +6,11 @@
 
 ## Overview
 
-| Tool | Usage |
-| ---- | ----- |
-| [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. |
-| MCQ Machine | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  |
-| Vocab Roulette | Terms and definitions generate random tests. Pick vocabulary to include. |
+| Tool | Usage | Download  |
+| ---- | -------- | ----- |
+| [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](roulette.xlsx) |
+| [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](MCQMachine.xlsx) |
+| [Vocab Roulette](#vocab) | Terms and definitions generate random tests. Pick vocabulary to include. | [Download](VocabRoulette.xlsx) |
 
 
 
@@ -52,7 +52,7 @@ Adapted from the example and information in [Adam Boxer's blog](https://achemica
 
 Written and video instructions to follow.
 
-## MCQ Machine
+## MCQ Machine {#mcq}
 
 ![](img/mcq.png)
 
@@ -74,7 +74,7 @@ Instructions in the Excel file.
 Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20Rules%20for%20Writing%20Multiple-Choice%20Questions.pdf).
 
 
-## Vocab Roulette
+## Vocab Roulette {#vocab}
 
 An adaptation to a Roulette based on single-word KS4 glossary.
 
@@ -83,6 +83,8 @@ In the **Glossary** sheet, toggle single terms on and off with 'Y'.
 Optional 'extra' questions can be specified with 'X'. These appear as the final 3 questions of a 10-question quiz.
 
 ![](img/ext.png)
+
+[Back to top](#overview)
 
 
 
