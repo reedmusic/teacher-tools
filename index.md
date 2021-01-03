@@ -1,8 +1,10 @@
 # Teacher Tools
 {: .no_toc}
 
+<!-- No TOC needed if ## Overview
 - TOC
 {:toc}
+-->
 
 ## Overview
 
@@ -10,7 +12,7 @@
 | ---- | -------- | ----- |
 | [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](roulette.xlsx) |
 | [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](MCQMachine.xlsx) |
-| [Vocab Roulette](#vocab) | Terms and definitions generate random tests. Pick vocabulary to include. | [Download](VocabRoulette.xlsx) |
+| [Vocab Roulette](#vocab) | Terms and definitions generate random test. Pick vocabulary to include. | [Download](VocabRoulette.xlsx) |
 
 
 
@@ -66,15 +68,21 @@ Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20R
 
 ## Vocab Roulette {#vocab}
 
-An adaptation to a Roulette based on single-word KS4 glossary.
+![](img/vocab.png)
 
-In the **Glossary** sheet, toggle single terms on and off with 'Y'.
+[Download Vocab Roulette here](VocabRoulette.xlsx).
 
-Optional 'extra' questions can be specified with 'X'. These appear as the final 3 questions of a 10-question quiz.
+10-question vocabulary tests from a spreadsheet of terms and definitions.
 
-![](img/ext.png)
+### Features
 
-[Back to top](#overview)
+![](img/vocab2.png)
 
-
-
+1. **Glossary** sheet holds terms and definitions. 
+	* Type Y to turn individual terms on/off.
+	* (Optional) Type X to include difficult terms as potential 'extra' questions, e.g. for differentiation.
+2. **Terms** tests students' definitions.
+3. **Definitions** tests students' terms.
+4. **Answers** shows both.
+5. **Gaps** deletes every other term or definition.
+6. **Terms (ext)** and **Definitions (ext)** ask 7 normal questions and 3 'extra' questions (e.g. harder terms for differentiation or for more recent topics covered...). **Answers (ext)** shows answers.
