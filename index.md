@@ -58,8 +58,8 @@ Instructions in the Excel file.
 * You can leave rows blank or add headings to organise topics/weeks etc.
 * Select a number of the yellow cells, then press Ctrl+Enter to type 'Y' into many cells at once (for example to select questions for an entire topic).
 
-Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20Rules%20for%20Writing%20Multiple-Choice%20Questions.pdf).
-
+<!-- Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20Rules%20for%20Writing%20Multiple-Choice%20Questions.pdf).
+-->
 
 ## Vocab Roulette {#vocab}
 
