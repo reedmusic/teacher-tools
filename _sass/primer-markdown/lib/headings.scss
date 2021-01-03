@@ -78,6 +78,13 @@
         counter-reset: h3counter;
   }
 
+
+  #overview {
+        content: none;
+        counter-increment: none;
+    }
+
+
   h3:before {
         content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
         counter-increment: h3counter;
