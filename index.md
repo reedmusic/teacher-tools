@@ -6,14 +6,13 @@
 {:toc}
 -->
 
-## Overview
+## Overview {#overview}
 
 | Tool | Usage | Download  |
 | ---- | -------- | ----- |
 | [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](roulette.xlsx) |
 | [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](MCQMachine.xlsx) |
 | [Vocab Roulette](#vocab) | Terms and definitions generate random test. Pick vocabulary to include. | [Download](VocabRoulette.xlsx) |
-
 
 
 ## Retrieval Roulette {#roulette}
@@ -39,10 +38,6 @@ It supports retrieval practice and spaced repetition: questions from previous an
 5. **Print KO** randomly hides questions and answers, like a deletion test in a Knowledge Organiser. (**Print_A** shows answers)
 
 Adapted from the example and information in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many different examples at the bottom.
-
-### Instructions
-
-Written and video instructions to follow.
 
 ## MCQ Machine {#mcq}
 
