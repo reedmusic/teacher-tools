@@ -8,7 +8,7 @@
 
 ## Overview {#overview}
 
-| Tool | Usage | Download  |
+| Tool | Usage | Right-click and Save Link As  |
 | ---- | -------- | ----- |
 | [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](downloads/roulette.xlsx) |
 | [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](downloads/mcq.xlsx) |
