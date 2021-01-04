@@ -10,16 +10,16 @@
 
 | Tool | Usage | Download  |
 | ---- | -------- | ----- |
-| [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](downloads/roulette.xlsx) |
-| [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](downloads/mcq.xlsx) |
-| [Vocab Roulette](#vocab) | Terms and definitions generate random test. Pick vocabulary to include. | [Download](downloads/vroulette.xlsx) |
+| [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/roulette.xlsx) |
+| [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/mcq.xlsx) |
+| [Vocab Roulette](#vocab) | Terms and definitions generate random test. Pick vocabulary to include. | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/vroulette.xlsx) |
 
 
 ## Retrieval Roulette {#roulette}
 
 ![](img/roulette.png)
 
-[Download Roulette here](roulette.xlsx).
+[Download Roulette here](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/roulette.xlsx).
 
 The spreadsheet is a bank of questions and answers from which a random quiz is automatically constructed.
 
@@ -29,13 +29,13 @@ It supports retrieval practice and spaced repetition: questions from previous an
 
 ![](img/roulette2.png)
 
-1. **Questions** sheet holds all the questions and answers (and the topic they fall under).
-2. **Options** sheet selects which topics to include in the test.
-3. **1_Q** sheet asks 1 question.
-4. **5_Q** asks 5 questions. (**5_A** shows answers).
-5. **10_Q** asks 10 questions. (**10_A** shows answers).
-4. **Print Q** fills an A4 paper with questions, for homework or test. (**Print A** shows answers)
-5. **Print KO** randomly hides questions and answers, like a deletion test in a Knowledge Organiser. (**Print_A** shows answers)
+* **Questions** sheet holds all the questions and answers (and the topic they fall under).
+* **Options** sheet selects which topics to include in the test.
+* **1_Q** sheet asks 1 question.
+* **5_Q** asks 5 questions. (**5_A** shows answers).
+* **10_Q** asks 10 questions. (**10_A** shows answers).
+* **Print Q** fills an A4 paper with questions, for homework or test. (**Print A** shows answers)
+* **Print KO** randomly hides questions and answers, like a deletion test in a Knowledge Organiser. (**Print A** shows answers)
 
 Adapted from the example and information in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many different examples at the bottom.
 
@@ -43,7 +43,7 @@ Adapted from the example and information in [Adam Boxer's blog](https://achemica
 
 ![](img/mcq.png)
 
-[Download MCQ Machine here](MCQmachine.xlsx).
+[Download MCQ Machine here](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/mcq.xlsx).
 
 The MCQ machine generates five multiple-choice questions from a list. You turn individual questions on or off in the **Questions** sheet and Excel will randomly choose five. The order of the responses are also randomised.
 
@@ -65,7 +65,7 @@ Instructions in the Excel file.
 
 ![](img/vocab.png)
 
-[Download Vocab Roulette here](VocabRoulette.xlsx).
+[Download Vocab Roulette here](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/vroulette.xlsx).
 
 10-question vocabulary tests from a spreadsheet of terms and definitions.
 
@@ -73,11 +73,11 @@ Instructions in the Excel file.
 
 ![](img/vocab2.png)
 
-1. **Glossary** sheet holds terms and definitions. 
+* **Glossary** sheet holds terms and definitions. 
 	* Type Y to turn individual terms on/off.
 	* (Optional) Type X to include difficult terms as potential 'extra' questions, e.g. for differentiation.
-2. **Terms** tests students' definitions.
-3. **Definitions** tests students' terms.
-4. **Answers** shows both.
-5. **Gaps** deletes every other term or definition.
-6. **Terms (ext)** and **Definitions (ext)** ask 7 normal questions and 3 'extra' questions (e.g. harder terms for differentiation or for more recent topics covered...). **Answers (ext)** shows answers.
+* **Terms** tests students' definitions.
+* **Definitions** tests students' terms.
+* **Answers** shows both.
+* **Gaps** deletes every other term or definition.
+* **Terms (ext)** and **Definitions (ext)** ask 7 normal questions and 3 'extra' questions (e.g. harder terms for differentiation or for more recent topics covered...). **Answers (ext)** shows answers.
