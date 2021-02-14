@@ -86,4 +86,6 @@ Instructions in the Excel file.
 
 
 
+<hr>
+
 [^1]: Inspired by Adam Boxer's blog and examples [here](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/).
