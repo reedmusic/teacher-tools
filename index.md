@@ -1,6 +1,8 @@
 # Teacher Tools
 {: .no_toc}
 
+Excel tools to support retrieval practice and generate automatic quizzes from banks of questions.
+
 <!-- No TOC needed if ## Overview
 - TOC
 {:toc}
@@ -11,8 +13,8 @@
 | Tool | Usage | Download  |
 | ---- | -------- | ----- |
 | [Retrieval Roulette](#roulette) | Questions and Answers generate random test. Pick entire topic(s) to include. | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/roulette.xlsx) |
-| [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick questions to include.  | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/mcq.xlsx) |
-| [Vocab Roulette](#vocab) | Terms and definitions generate random test. Pick vocabulary to include. | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/vroulette.xlsx) |
+| [MCQ Machine](#mcq) | Questions and Multiple-Choice Answers generate random test. Pick individual questions to include.  | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/mcq.xlsx) |
+| [Vocab Roulette](#vocab) | Terms and definitions generate random test. Pick individual terms to include. | [Download](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/vroulette.xlsx) |
 
 
 ## Retrieval Roulette {#roulette}
@@ -21,7 +23,7 @@
 
 [Download Roulette here](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/roulette.xlsx).
 
-The spreadsheet is a bank of questions and answers from which a random quiz is automatically constructed.
+The retrieval roulette[^1] is a spreadsheet. It contains bank of questions and answers from which a random quiz is automatically generated.
 
 It supports retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
 
@@ -75,9 +77,13 @@ Instructions in the Excel file.
 
 * **Glossary** sheet holds terms and definitions. 
 	* Type Y to turn individual terms on/off.
-	* (Optional) Type X to include difficult terms as potential 'extra' questions, e.g. for differentiation.
-* **Terms** tests students' definitions.
-* **Definitions** tests students' terms.
+	* (Optional) Type X to include difficult terms as potential 'extra' questions, e.g. for differentiation (see yellow questions in above image).
+* **Terms** tests definitions.
+* **Definitions** tests terms.
 * **Answers** shows both.
 * **Gaps** deletes every other term or definition.
 * **Terms (ext)** and **Definitions (ext)** ask 7 normal questions and 3 'extra' questions (e.g. harder terms for differentiation or for more recent topics covered...). **Answers (ext)** shows answers.
+
+
+
+[^1]: Inspired by Adam Boxer's blog and examples [here](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/).
