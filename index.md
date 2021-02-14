@@ -23,7 +23,7 @@ Excel tools to support retrieval practice and generate automatic quizzes from ba
 
 [Download Roulette here](https://github.com/MrReedSWCHS/teacher-tools/raw/main/downloads/roulette.xlsx).
 
-The retrieval roulette[^1] is a spreadsheet. It contains bank of questions and answers from which a random quiz is automatically generated.
+The retrieval roulette is a bank of questions and answers from which a random quiz is automatically generated.[^1]
 
 It supports retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
 
