@@ -8,12 +8,6 @@ Excel tools to support retrieval practice and generate automatic quizzes from ba
 {:toc}
 -->
 
-## Music test
-
-<audio controls>
-<source src="03.mp3" type="audio/mp3">
-</audio>
-
 ## Downloads {#downloads}
 
 | Tool | Usage | Download  |
